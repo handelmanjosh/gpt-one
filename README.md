@@ -1,0 +1,1 @@
+Switches out english characters for similar looking characters in different languages. This fools AI content detectors. 
